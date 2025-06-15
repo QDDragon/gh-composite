@@ -16,4 +16,4 @@ runs:
     run: npm ci
     shell: bash
 
-#https://github.com/QDDragon/gh-composite.git
+#https://github.com/QDDragon/gh
