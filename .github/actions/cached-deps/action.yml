@@ -5,7 +5,7 @@ inputs:
   caching:
     description: 'whether caching dependencies or not'
     required: false
-    default: 'true'
+    default: 'false'
 
 outputs:
   used-cache:
@@ -32,4 +32,3 @@ runs:
 
     shell: bash
 
-#https://github.com/QDDragon/ghafdg
